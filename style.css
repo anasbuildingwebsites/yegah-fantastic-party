@@ -1,0 +1,75 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:chartreuse;
+    padding:10px;
+}
+
+header a {
+    text-decoration: none;
+    color:brown;
+    background-color:blueviolet;
+    padding: 5px; 
+    border-radius: 10px;
+    margin:5px;
+
+
+}
+
+main h1 {
+    font-size: 25px;
+    color:chocolate;
+    text-align: center;
+}
+
+footer p {
+    background-color:azure;
+    padding:5px;
+}
+
+. menu {
+    text-decoration: none;
+    background-color:blueviolet;
+    color:blanchedalmond;
+    padding: 10px;
+    margin: 15px;
+    border-radius:10px;
+
+
+}
+
+.discount{
+    background-color:cadetblue;
+    padding:10px;
+}
+
+.discount{
+    background-color:cadetblue;
+    padding:10px;
+}
+
+.discount{
+    background-color:cadetblue;
+    padding:10px;
+}
+
+.discount{
+    background-color:cadetblue;
+    padding:10px;
+}
+
+.discount{
+    background-color:cadetblue;
+    padding:10px;
+}
+
+main a {
+    text-decoration:none;
+    background-color:blueviolet;
+    color:brown;
+    padding:10px;
+    border-radius: 10px;
+}
+y
